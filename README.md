@@ -5,6 +5,8 @@ Developed in 2013 by Jixin Chen, Lydia Kisley, Joey Tauzin, and Bo Shuang in Chr
 
 Please see <b>LRG_SuperRes_Kinetics_GuideFINAL.pdf</b> for full description and instructions for use.
 
+The main script for user interfacing is <b>LRG_SuperRes_Main.m</b>
+
 Super-resolution imaging and single molecule kinetics have the powerful potential to understand a variety of interfacial interactions. This analysis takes wide field single molecule data and extracts spatial locations of where molecules are located and how long they are at particular locations. The output includes super-resolution images and temporal statistics for kinetic information. We have achieved ~30 nm spatial  and ~10 ms temporal resolutions based on experimental conditions (higher resolutions can be achieved with improved photophysics/optical equipment). Our analysis has been applied to understand DNA sequencing, chromatography, protein/polymer interactions, biofouling, and corrosion, among others.
 
 If used, please cite:
