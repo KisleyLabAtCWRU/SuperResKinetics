@@ -21,4 +21,4 @@ Kisley, L.; Chen, J.; Mansur, A. P.; Dominguez-Medina, S.; Kulla, E.; Kang, M.; 
 
 Kisley, L.; Patil, U.; Dhamane, S.; Kourentzi, K.; Tauzin, L. J.; Willson, R. C.; Landes, C. F. Competitive multi-component anion exchange adsorption of proteins at the single-molecule level. <i>Analyst</i> <b>2017</b>, <i>142</i>, 3127-3131.
 
-Saini, A.; Messenger, H.; Kisley, L. Fluorophores “turned-on” by corrosion reactions can be detected at the single-molecule level. Under Revision.
+Saini, A.; Messenger, H.; Kisley, L. Fluorophores “turned-on” by corrosion reactions can be detected at the single-molecule level. <i>ACS Appl. Mater. Interfaces</i> <b>2021</b>, <i>13</i>, 2000-2006.
