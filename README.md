@@ -1,3 +1,5 @@
+DOI of 20232610 release: doi: 10.5281/zenodo.10048387
+
 # SuperResKinetics
 Super-resolution imaging and single molecule kinetics MATLAB analysis
 
