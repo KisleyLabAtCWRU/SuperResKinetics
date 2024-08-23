@@ -13,6 +13,8 @@ The main script for user interfacing is <b>LRG_SuperRes_Main.m</b>
 
 Super-resolution imaging and single molecule kinetics have the powerful potential to understand a variety of interfacial interactions. This analysis takes wide field single molecule data and extracts spatial locations of where molecules are located and how long they are at particular locations. The output includes super-resolution images and temporal statistics for kinetic information. We have achieved ~30 nm spatial  and ~10 ms temporal resolutions based on experimental conditions (higher resolutions can be achieved with improved photophysics/optical equipment). The 3D extension takes the 2D analysis from each z-slice and reconstructs a 3D image. Our analysis has been applied to understand DNA sequencing, chromatography, protein/polymer interactions, biofouling, and corrosion, among others.
 
+Example data to text the code on can be requested by emailing lydia.kisley@case.edu. The file sizes are ~100s MB so cannot be easily hosted on GitHub.
+
 If used with 3D reconstruction, please cite:
 
 Monge Neria, R.; Kisley, L. Single-Molecule Imaging in Commercial Stationary Phase Particles Using Highly Inclined and Laminated Optical Sheet Microscopy. Anal. Chem. 2023, 95, 4, 2245–2252. https://doi.org/10.1021/acs.analchem.2c03753
