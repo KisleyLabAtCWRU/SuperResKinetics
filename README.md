@@ -11,6 +11,8 @@ The main script for user interfacing is <b>LRG_SuperRes_Main.m</b>
 
 Super-resolution imaging and single molecule kinetics have the powerful potential to understand a variety of interfacial interactions. This analysis takes wide field single molecule data and extracts spatial locations of where molecules are located and how long they are at particular locations. The output includes super-resolution images and temporal statistics for kinetic information. We have achieved ~30 nm spatial  and ~10 ms temporal resolutions based on experimental conditions (higher resolutions can be achieved with improved photophysics/optical equipment). Our analysis has been applied to understand DNA sequencing, chromatography, protein/polymer interactions, biofouling, and corrosion, among others.
 
+Example data to text the code on can be requested by emailing lydia.kisley@case.edu. The file sizes are ~100s MB so cannot be easily hosted on GitHub.
+
 If used, please cite:
 
 Chen, J.; Bremauntz, A.; Kisley, L.; Shuang, B.; Landes, C. F. Super-Resolution mbPAINT for Optical Localization of Single-Stranded DNA. ACS Appl. Mater. Interfaces 2013, 5, 9338-9343. https://doi.org/10.1021/am403984k
